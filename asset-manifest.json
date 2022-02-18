@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "/TM-React-Portfolio/static/css/main.2f13bda2.css",
-    "main.js": "/TM-React-Portfolio/static/js/main.29d3b8c7.js",
+    "main.js": "/TM-React-Portfolio/static/js/main.c151c2ff.js",
     "static/media/movie.png": "/TM-React-Portfolio/static/media/movie.3e062e0b13248af2026f.png",
     "static/media/petrec.png": "/TM-React-Portfolio/static/media/petrec.9ed66f5920b7f73d5750.png",
     "static/media/weather.png": "/TM-React-Portfolio/static/media/weather.f9f5dd399abcfcfa8041.png",
     "static/media/planner.png": "/TM-React-Portfolio/static/media/planner.feb2f6472e9a1d6af8c4.png",
     "static/media/teamgen.png": "/TM-React-Portfolio/static/media/teamgen.12f9af5ea4fb0210eb2b.png",
     "static/media/password.png": "/TM-React-Portfolio/static/media/password.32c0fc46aa662a844349.png",
+    "static/media/profilepic.gif": "/TM-React-Portfolio/static/media/profilepic.824c8f329f4f168d26bb.gif",
     "index.html": "/TM-React-Portfolio/index.html",
     "main.2f13bda2.css.map": "/TM-React-Portfolio/static/css/main.2f13bda2.css.map",
-    "main.29d3b8c7.js.map": "/TM-React-Portfolio/static/js/main.29d3b8c7.js.map"
+    "main.c151c2ff.js.map": "/TM-React-Portfolio/static/js/main.c151c2ff.js.map"
   },
   "entrypoints": [
     "static/css/main.2f13bda2.css",
-    "static/js/main.29d3b8c7.js"
+    "static/js/main.c151c2ff.js"
   ]
 }
